@@ -1,0 +1,14 @@
+body{
+	color: green;
+}
+
+.div{
+	color: purple;
+	background: blue;
+	padding: 200px;
+}
+
+.green{
+	background: green;
+	padding: 200px;
+}
